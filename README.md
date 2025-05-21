@@ -1,4 +1,4 @@
 # ritikraj
 first git reposit
 <br>
-author-ritik
+author-ritik raj bajpai
