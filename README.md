@@ -1,4 +1,4 @@
 # ritikraj
-first git reposit
+first git reposit javascript
 <br>
 author-ritik raj bajpai
